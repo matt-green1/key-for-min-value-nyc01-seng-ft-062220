@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   lowest_value == nil
-  lowest_key = nil
+  lowest_key = ""
   if name_hash == nil
     return nil
   else
